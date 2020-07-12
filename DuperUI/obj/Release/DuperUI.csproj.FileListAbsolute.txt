@@ -1,0 +1,10 @@
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\bin\Release\DuperUI.exe.config
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\bin\Release\DuperUI.exe
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\bin\Release\DuperUI.pdb
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\obj\Release\DuperUI.Form1.resources
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\obj\Release\DuperUI.Properties.Resources.resources
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\obj\Release\DuperUI.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\obj\Release\DuperUI.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\obj\Release\DuperUI.exe
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\obj\Release\DuperUI.pdb
+C:\Users\Dawid\source\repos\DuperUI\DuperUI\obj\Release\DuperUI.csprojAssemblyReference.cache
